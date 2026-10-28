@@ -17,7 +17,7 @@
 - Import file data into a string
 - Manage any redundancy in data
 - Loop every key through "3.txt"
-- Breaks key loop if consonant occurs too often in a row
+- Breaks key loop if consonants occurs too often in a row
 - Analyze data for probable answers
 
 #### Answer: `key = "frequent"`
