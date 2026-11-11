@@ -8,11 +8,9 @@ int main() {
 
     int iter = 2;
     int foundPrimes = 0;
-    int threshold;
+    int threshold = 10001;
 
     Prime num;
-
-    std::cin >> threshold;
 
     fout.open("primes\\storage.txt");
 
