@@ -1,6 +1,6 @@
 # Euler Problems using C++
 
-### Current Completed
+### Currently Completed Problems
 
 * 1 - One .cpp
 * 2 - One .cpp
